@@ -4,3 +4,6 @@ The mod got over 6000 downloads combined from [Thunderstore](https://thunderstor
 
 # About this repo
 Open sourcing the mod so that it could be merged and maintained in the BetterSMT mod
+
+## Further notes
+This was my first time working on a mod for a unity game and unity in general
